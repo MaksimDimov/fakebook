@@ -1,5 +1,7 @@
 # fakebook
 
+A simple simulation of some social network, where you can post some posts and see the info about user.
+
 ## What can it do?
 
 1) Add post, that can contain text, pictures and both.
